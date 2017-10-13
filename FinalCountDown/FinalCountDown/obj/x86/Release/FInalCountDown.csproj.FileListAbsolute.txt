@@ -1,0 +1,11 @@
+C:\Users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\bin\x86\Release\FInalCountDown.exe.config
+C:\Users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\bin\x86\Release\FInalCountDown.exe
+C:\Users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\bin\x86\Release\FInalCountDown.pdb
+C:\Users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\obj\x86\Release\FInalCountDown.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\obj\x86\Release\FInalCountDown.BtnStartCount.resources
+C:\Users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\obj\x86\Release\FInalCountDown.CountDownForm.resources
+C:\Users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\obj\x86\Release\FInalCountDown.Properties.Resources.resources
+C:\Users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\obj\x86\Release\FInalCountDown.csproj.GenerateResource.Cache
+C:\Users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\obj\x86\Release\FInalCountDown.exe
+C:\Users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\obj\x86\Release\FInalCountDown.pdb
+C:\Users\user\Documents\Visual Studio 2017\Projects\FInalCountDown\FInalCountDown\obj\x86\Release\FInalCountDown.csproj.ResolveComReference.cache

@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\bin\Debug\FInalCountDown.exe
+c:\users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\bin\Debug\FInalCountDown.pdb
+c:\users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\obj\Debug\FInalCountDown.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\obj\Debug\FInalCountDown.Properties.Resources.resources
+c:\users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\obj\Debug\FInalCountDown.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\obj\Debug\FInalCountDown.exe
+c:\users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\obj\Debug\FInalCountDown.pdb
+C:\Users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\obj\Debug\FInalCountDown.CountDownForm.resources
+C:\Users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\obj\Debug\FInalCountDown.BtnStartCount.resources
+C:\Users\user\documents\visual studio 2017\Projects\FInalCountDown\FInalCountDown\bin\Debug\FInalCountDown.exe.config
